@@ -6,5 +6,6 @@ Link servidor sem framework https://www.alura.com.br/artigos/criar-servidor-node
 
 link express: https://www.treinaweb.com.br/blog/criando-um-servidor-http-com-express
 
-guia quase completo: https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction
+Linka GEt e POST e etc: https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction
 
+link node.js/express: https://www.w3schools.com/nodejs/default.asp
